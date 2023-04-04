@@ -1,2 +1,3 @@
-# Songlist in C
-# 音樂播放系統
+# 音樂播放系統 - Songlist in C
+## 說明
+
