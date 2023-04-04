@@ -68,3 +68,7 @@ EX：請輸入功能： Search Favorite
 | 1   |   Butter   |  BTS | 4:10 |
 | 2   |  Dynamite  |  BTS | 3:57 |
 | 3   |     ON     |  BTS | 3:59 |
+
+### 隨機撥放
+* 從歌曲清單中或我的最愛清單，列出隨機撥放歌曲。
+
