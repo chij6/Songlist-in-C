@@ -4,7 +4,8 @@
 1. 下載 `songlist.csv`與 `song_demo.c`，並存放於同資料夾
 2. 打開cmd或者任意能編譯c程式語言的編譯器
 3. 執行專案
-![image](picture or gif url)
+![image](https://github.com/chij6/Songlist-in-C/blob/main/demo.png)
+功能頁面會向上面呈現，先列出所有歌曲，再進入功能頁面!
 
 
 ## 1.系統綱要與介紹
